@@ -1,21 +1,9 @@
 # Hi, I'm Pravin Chavan 👋
 
-I am a Data Analyst skilled in Power BI, SQL, Python, and Excel, transforming raw data into meaningful insights.
-
-## 🔹 Projects
-
-### 🍎 Apple Retail Sales Analysis
-- SQL project analyzing 1M+ rows of sales data
-- Found sales trends, warranty patterns, and store performance
-- Tools: PostgreSQL
-
-### 🦠 COVID-19 Data Analysis
-- Analyzed global COVID data using SQL
-- Identified most affected countries and trends
-
-### 🎓 Student Performance Analysis
-- Performed EDA using Python
-- Found factors affecting student scores
+► Hi, I’m Pravin Chavan, an aspiring Data Analyst passionate about transforming raw data into meaningful insights and practical solutions.
+► Skilled in SQL, Python, Excel, and Power BI, with hands-on experience in data cleaning, analysis, and visualization.
+► Currently pursuing Computer Engineering at Savitribai Phule Pune University, building strong analytical and problem-solving skills.
+► Eager to contribute to data-driven decision-making and grow as a Data Analyst in a professional environment.
 
 ## 🔹 Skills
 SQL | Python | Power BI | Excel | PostgreSQL | Data Analysis
