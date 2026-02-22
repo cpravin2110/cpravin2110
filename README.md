@@ -1,7 +1,5 @@
 # Hi, I'm Pravin Chavan 👋
 
-## Data Analyst Portfolio
-
 I am a Data Analyst skilled in Power BI, SQL, Python, and Excel, transforming raw data into meaningful insights.
 
 ## 🔹 Projects
