@@ -11,11 +11,9 @@
 ## 🔹 Skills  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,excel,github,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,excel,powerbi"/>
 </p>
 
-**Tools & Technologies:**  
-SQL | Python | Power BI | Excel | PostgreSQL | Data Analysis
 ## 📫 Contact Me  
 
 📧 Email: your-cpravin2110@gmail.com  
