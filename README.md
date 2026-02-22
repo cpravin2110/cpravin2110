@@ -8,11 +8,14 @@
 
 ► Eager to contribute to data-driven decision-making and grow as a Data Analyst in a professional environment.
 
-## 🔹 Skills
+## 🔹 Skills  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,excel,github,powerbi" />
+</p>
+
+**Tools & Technologies:**  
 SQL | Python | Power BI | Excel | PostgreSQL | Data Analysis
-
-
-
 ## 📫 Contact Me  
 
 📧 Email: your-cpravin2110@gmail.com  
