@@ -35,7 +35,6 @@
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-
 **Apps, APIs & Cloud**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -55,19 +54,19 @@
 - 🤖 Supervised ML (regression, classification) with XGBoost, Random Forest and Scikit-learn
 - 💬 NLP: TF-IDF, sentiment analysis, text classification at 1M+ comment scale
 - 🧠 RAG pipelines and LLM apps with LangChain
-- ⚡ Model deployment with Streamlit and FastAPI
+- ⚡ Model deployment with Streamlit, FastAPI and AWS
 - 📈 EDA, feature engineering, SQL analytics and Power BI dashboards
 
 ## 📂 Featured Projects
 
-### 🏠 [Gurgaon Real Estate Price Prediction & Recommendation](https://github.com/cpravin2110/Real-estate-capstone) · [🌐 Live Demo](https://real-estate-capstone-pravinchavan.streamlit.app/)
+### 🏠 [Gurgaon Real Estate Price Prediction & Recommendation](https://github.com/cpravin2110/Real-estate-capstone) · [🌐 Live](https://real-estate-capstone-pravinchavan.streamlit.app/)
 End-to-end ML web app that predicts property prices, shows market analytics and recommends similar apartments across 104 Gurgaon sectors.
 - Benchmarked **11 regression models** with 10-fold CV, then tuned XGBoost with GridSearchCV (**1,920 fits**)
 - Final tuned XGBoost: **CV R² = 0.906**, hold-out **MAE ≈ ₹10.8 lakh**
 - Built a content-based recommender using cosine similarity, plus an interactive analytics dashboard
 - **Stack:** Python, Scikit-learn, XGBoost, Pandas, Plotly, Streamlit
 
-### 🎥 [YouTube Comment Sentiment Analysis](https://github.com/cpravin2110/Youtube-comment-sentiment-analysis)
+### 🎥 [YouTube Comment Sentiment Analysis](https://github.com/cpravin2110/Youtube-comment-sentiment-analysis) · [🌐 Live](https://youtube-comment-sentiment-analysis-pravinchavan.streamlit.app/)
 NLP web app that fetches comments for any YouTube video and classifies them as Positive, Neutral or Negative, with a dashboard.
 - Trained a TF-IDF (unigram + bigram) + Logistic Regression pipeline on **1M+ labelled comments**
 - Compared **7 classifiers**; final model reached **70.84% accuracy and 0.71 macro F1** on 206K unseen comments (vs 66.3% Naive Bayes baseline)
@@ -80,11 +79,6 @@ End-to-end analytics project on 3,900 retail transactions to uncover revenue dri
 - Wrote PostgreSQL queries for segmentation, discount impact and subscription behavior
 - Built a Power BI dashboard; found Young Adults drive the most revenue and 80% of customers are loyal (5+ purchases)
 - **Stack:** Python, SQL (PostgreSQL), Power BI
-
-## 📊 GitHub Stats
-
-![Pravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpravin2110&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cpravin2110&layout=compact)
 
 ## 📫 Let's Connect
 
