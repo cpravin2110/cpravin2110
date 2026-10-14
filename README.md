@@ -59,7 +59,7 @@
 
 ## 📂 Featured Projects
 
-### 🏠 [Gurgaon Real Estate Price Prediction & Recommendation](https://github.com/cpravin2110/Real-estate-capstone) · [🌐 Live](https://real-estate-capstone-pravinchavan.streamlit.app/)
+### 🏠 [Real Estate Price Prediction & Recommendation](https://github.com/cpravin2110/Real-estate-capstone) · [🌐 Live](https://real-estate-capstone-pravinchavan.streamlit.app/)
 End-to-end ML web app that predicts property prices, shows market analytics and recommends similar apartments across 104 Gurgaon sectors.
 - Benchmarked **11 regression models** with 10-fold CV, then tuned XGBoost with GridSearchCV (**1,920 fits**)
 - Final tuned XGBoost: **CV R² = 0.906**, hold-out **MAE ≈ ₹10.8 lakh**
